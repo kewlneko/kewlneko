@@ -1,16 +1,41 @@
-## Hi there 👋
+# hey, i'm neko 👋
 
-<!--
-**kewlneko/kewlneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+19 y/o developer from new york city 🗽
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* fluent in:
+
+  * python
+  * rust
+  * go
+  * html
+  * css
+  * javascript
+* i enjoy building random projects & experimenting with tech
+* usually coding late at night with music playing
+
+---
+
+## tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,html,css,js,vscode,github,git,linux,bash" />
+</p>
+
+---
+
+## github stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kewlneko&theme=tokyonight" />
+</p>
+
+---
+
+## contact
+
+* discord: `@nekoplz`
+* email: `0p3dpy1tc@mozmail.com`
+
+  * please don't spam me 🙏
